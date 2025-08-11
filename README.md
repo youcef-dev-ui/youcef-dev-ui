@@ -27,24 +27,6 @@ I love combining **design** and **code** to bring ideas to life.
 
 ---
 
-## 📌 Featured Projects
-- 🛍 [E-Commerce UI](https://github.com/youcef752/ecommerce-ui) – A modern, clean shopping interface.
-- 🌦 [Weather App](https://github.com/youcef752/weather-app) – Responsive weather forecast web app.
-- 🖥 [Portfolio Website](https://github.com/youcef752/portfolio) – Showcasing my design and coding skills.
-
----
-
-## 📊 GitHub Stats
-![Youcef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcef752&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcef752&layout=compact&theme=radical)
-
----
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youcef752&theme=react-dark)
-
----
-
 ## ✨ Fun Extras
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=UI/UX+Designer;Frontend+Developer;CS+Student;Lifelong+Learner)](https://git.io/typing-svg)
 
