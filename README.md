@@ -33,5 +33,5 @@ I love combining **design** and **code** to bring ideas to life.
 ---
 
 📫 **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/youcef-jawade-723a66290/) | [Email](mailto:youcef123dk@gmail.com) | [Instgram](https://www.instagram.com/jaoued.dev/) 
+[LinkedIn](https://www.linkedin.com/in/youcef-jawade-723a66290/) | [Email](mailto:youcef123dk@gmail.com) | [Instgram](https://www.instagram.com/jawade.dev?igsh=N2dreGU1aGMzbnA1) 
 
